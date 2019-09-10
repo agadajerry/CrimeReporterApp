@@ -37,7 +37,7 @@ public class PoliceFaceBookPage extends AppCompatActivity {
         webSetting.setLayoutAlgorithm(WebSettings.LayoutAlgorithm.NARROW_COLUMNS);
         webSetting.setUseWideViewPort(true);
         webView.loadUrl("https://web.facebook.com/benuepolice/");
-        checkInternetConnection();
+        checkInternetConnection();//test for network availability
 
 
     }
