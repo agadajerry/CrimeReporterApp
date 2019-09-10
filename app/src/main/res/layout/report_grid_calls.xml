@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/md_light_green_300"
+    android:layout_gravity="center"
+    >
+
+    <TextView
+        android:id="@+id/welcomeText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/welcomeLabel"
+        android:textColor="@color/md_indigo_500"
+        android:textSize="21sp"
+        android:textStyle="bold" />
+
+    <GridView
+        android:id="@+id/gridID"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/welcomeText"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="20dp"
+        android:columnWidth="120dp"
+        android:gravity="center"
+        android:horizontalSpacing="20dp"
+        android:numColumns="2"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="20dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@color/md_indigo_200">
+
+    </GridView>
+
+</RelativeLayout>

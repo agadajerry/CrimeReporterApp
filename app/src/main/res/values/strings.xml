@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Crime Reporters</string>
+    <string name="buttonA">Zone A</string>
+    <string name="text_title">Report From Your Zone</string>
+    <string name="buttonB">Zone B</string>
+    <string name="buttonC">Zone C</string>
+
+    <string name="report_a">Buruku LGA Report Crime</string>
+    <string name="zone_b_lga">SELECT YOUR LGA AND REPORT</string>
+    <string name="benue_police">Benue State Police Command</string>
+    <string name="eventFieldHint">Event Discription</string>
+    <string name="addrHint"> Enter Your District and the ward</string>
+    <string name="sendButton"> Send Mail</string>
+    <string name="labelReason">Security is Everybody\'s Business</string>
+    <!-- this strings is for actionBar drawer-->
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <!-- safety, police and Report Buttons strings-->
+    <string name="welcomeLabel">Welcome</string>
+    <!--about the developer jerry-->
+    <string name="aboutMe">My name is Idoko Jerry Agada. I completed my Bachelor degree in Electrical and Electronics engineering from federal
+        University Of Agriculture Makurdi in 2017. I have passion in developing software as well as electronics design. I program using Java
+        Swing  and database(sqlite).I have developed Business transaction monitoring and point of sale receipt  for numerous
+        business owners.</string>
+    <string name="aboutDev">About The App Developer</string>
+    <!-- about the app-->
+    <string name="about_app">ABOUT APP</string>
+    <string name="aboutApp">This App was developed to help in the fight against the break down of law and  order.
+    Most time some cases is left unreported or because the victim is afraid of reporting the issue to the Security agents.
+    You can sit in the comfort of your  home and make a call or type a report and send it to the Security agency in the state.
+    I know security  is every body\'s business, and i believed the crime rate will be reduced if this app is being put to used.
+    </string>
+    <string name="contact">Contact</string>
+    <string name="developer">Developer</string>
+    <string name="aboutCR">About Crime Reporters</string>
+    <string name="policeCommand">Benue State Police Command</string>
+    <string name="powerBy">power by: JerryElectro-Tech</string>
+    <string name="policelogodec">benue image and police logo</string>
+    <string name="facebook">Facebook</string>
+</resources>
